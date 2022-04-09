@@ -1,2 +1,2 @@
 [localhost]
-ansible_user=lakshmi
+ansible_ssh_pass=LKeu2@7# ansible_ssh_user=lakshmi
